@@ -1,0 +1,26 @@
+Copyright (c) 2026 Quinten Knowles / Aeon Intelligence. All rights reserved.
+
+EVALUATION-ONLY LICENSE
+
+This repository and all code, documentation, and other material in it (the "Material") are the
+confidential and proprietary property of the copyright holder. The Material is made available
+solely so that individuals invited by the copyright holder may evaluate the author's engineering
+work in connection with a hiring decision (the "Purpose").
+
+You may view and run the Material only for the Purpose. You may not, without the copyright
+holder's prior written consent:
+
+  1. copy, reproduce, or store the Material, in whole or in part, outside this repository except
+     as incidental to viewing or running it for the Purpose;
+  2. modify, adapt, translate, or create derivative works of the Material;
+  3. use the Material, or any design, algorithm, or technique disclosed in it, in any product,
+     service, or internal system;
+  4. distribute, publish, sublicense, or otherwise disclose the Material to any third party;
+  5. use the Material to train, fine-tune, or evaluate any machine learning model, or process it
+     with any automated scraping, indexing, or code-ingestion tool.
+
+All access ends when the Purpose concludes or when the copyright holder revokes it, whichever is
+earlier. On either event you must delete any copies of the Material in your possession.
+
+No license or right is granted by implication, estoppel, or otherwise, except as expressly stated
+above. THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

@@ -1,0 +1,25 @@
+{
+  "name": "aeon-engineering-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Selected infrastructure modules from the Aeon Intelligence platform, provided for hiring evaluation only.",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test \"tests/**/*.test.ts\"",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "prettier": "^3.8.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
